@@ -32,7 +32,7 @@ void main() {
       count++;
     }
   }
-  String correct_answer = answer.toString();
+
   print("║ Congrat! you guess a number: " + answer.toString() + " correctly. ❤");
   print("║ You guess " + count.toString() + " times.");
   print("║──────────────────────────────────────────────────");
